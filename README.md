@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on c++
 - 🌱 I’m currently learning c
-- 👯 I’m looking to collaborate on c programming
+- 👯 I’m looking to collaborate on problem solving in cp
 - 🤔 I’m looking for help with c++
 - 💬 Ask me about any tech related stuff
 - 📫 How to reach me: Twitter --@nayandeep12321
