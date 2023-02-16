@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Nayan Deep</h1>
+<h1 align="center">Hi 👋, I'm Nayan </h1>
 <h3 align="center">A passionate frontend developer and Competitive Programmer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
