@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@nayandeep12321" target="blank"><img src="https://img.shields.io/twitter/follow/@nayandeep12321?logo=twitter&style=for-the-badge" alt="@nayandeep12321" /></a> </p>
 
-- 🌱 I’m currently learning **pHp, python, Node.js**
+<!-- - 🌱 I’m currently learning **pHp, python, Node.js** -->
 
 - 💬 Ask me about **Tech related stuffs**
 
