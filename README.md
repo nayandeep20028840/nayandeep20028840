@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nayandeep20028840&label=Profile%20views&color=0e75b6&style=flat" alt="nayandeep20028840" /> </p>
 
-<p align="left"> <a href="https://twitter.com/nayandeep12321" target="blank"><img src="https://img.shields.io/twitter/follow/@nayandeep12321?logo=twitter&style=for-the-badge" alt="@nayandeep12321" /></a> </p>
+<p align="left"> <a href="https://twitter.com/nayandeep12321" target="blank"><img src="https://img.shields.io/twitter/follow/nayandeep12321?logo=twitter&style=for-the-badge" alt="@nayandeep12321" /></a> </p>
 
 <!-- - 🌱 I’m currently learning **pHp, python, Node.js** -->
 
