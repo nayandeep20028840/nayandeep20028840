@@ -5,17 +5,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nayandeep20028840&label=Profile%20views&color=0e75b6&style=flat" alt="nayandeep20028840" /> </p>
 
-<!-- <p align="left"> <a href="https://twitter.com/nayandeep12321" target="blank"><img src="https://img.shields.io/twitter/follow/nayandeep12321?logo=twitter&style=for-the-badge" alt="@nayandeep12321" /></a> </p> -->
-
-<!-- - 🌱 I’m currently learning **pHp, python, Node.js** -->
-
 - 💬 Ask me about **Tech related stuffs**
 
 - 📫 How to reach me **nayan21100@iiitnr.edu.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<!-- <a href="https://twitter.com/@nayandeep12321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@nayandeep12321" height="30" width="40" /></a> -->
 <a href="https://linkedin.com/in/nayan-deep-852946222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nayan-deep-852946222" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/nayan21100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="nayan21100" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/nayan21100" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="nayan21100" height="30" width="40" /></a>
