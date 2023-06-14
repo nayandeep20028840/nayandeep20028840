@@ -1,7 +1,7 @@
 
 <!-- <h1 align="center">Hi 👋, I'm Nayan </h1> -->
 <h1 align="center">Hi 👋, I'm Nayan<img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="30" /></h1>
-<h2> align="center">A passionate Developer <img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif?1563480763" width="30" height="30"></h2>
+<h3 align="center">A passionate Developer <img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif?1563480763" width="30" height="30"></h3>
 <!-- <h3 align="center">A passionate Developer </h3> -->
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
