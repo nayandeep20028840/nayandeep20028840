@@ -8,38 +8,15 @@
 
 - 📫 How to reach me **nayan21100@iiitnr.edu.in**
 
-<!-- Header for "Connect with me" section aligned to the left -->
 <h3 align="left">Connect with me:</h3>
 
-<!-- Start of paragraph with content aligned to the left -->
 <p align="left">
-    <!-- LinkedIn profile link with LinkedIn icon -->
-    <a href="https://linkedin.com/in/nayan-deep-852946222" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nayan-deep-852946222" height="30" width="40" />
-    </a>
-    
-    <!-- Codeforces profile link with Codeforces icon -->
-    <a href="https://codeforces.com/profile/nayan21100" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="nayan21100" height="30" width="40" />
-    </a>
-    
-    <!-- Codechef profile link with Codechef icon -->
-    <a href="https://www.codechef.com/users/nayan21100" target="blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="nayan21100" height="30" width="40" />
-    </a>
-    
-    <!-- Twitter profile link with Twitter icon -->
-    <a href="https://twitter.com/@nayandeep12321" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@nayandeep12321" height="30" width="40" />
-    </a>
-    
-    <!-- Instagram profile link with Instagram icon -->
-    <a href="https://www.instagram.com/nayan_deep_90/" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nayan_deep_90" height="30" width="40" />
-    </a>
+<a href="https://linkedin.com/in/nayan-deep-852946222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nayan-deep-852946222" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/nayan21100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="nayan21100" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/nayan21100" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="nayan21100" height="30" width="40" /></a>
+<a href="https://twitter.com/@nayandeep12321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@nayandeep12321" height="30" width="40" /></a>
+<a href="https://www.instagram.com/nayan_deep_90/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nayan_deep_90" height="30" width="40" /></a>
 </p>
-<!-- End of paragraph -->
-
 
 <!-- Start of HTML code -->
 <!-- This header is aligned to the left -->
